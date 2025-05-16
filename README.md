@@ -1,13 +1,13 @@
 # 📦 Inventory Management Web App
 
-A full-stack inventory management system built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. The app allows businesses to manage stock, view inventory history, add/update/delete items, and handle user authentication with role-based access.
+A full-stack inventory management system built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. The app allows businesses to manage stock, view inventory history, add/update/delete items.
 
 ---
 
 ##  Features
 
 - **Inventory CRUD** – Add, update, delete, and view product details
--  **Real-time Updates** – React + Redux for responsive and dynamic UI
+-  **Real-time Updates** – React for responsive and dynamic UI
 -  **MongoDB Integration** – Schema-based item storage using Mongoose
 -  **REST API** – Backend built with Express and Node.js for clean API structure
 
